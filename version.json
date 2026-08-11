@@ -1,6 +1,6 @@
 {
   "product": "TSM",
-  "recommend": "Ver.0.90",
+  "recommend": "Ver.0.91",
   "data": {
     "ver": "260719",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
@@ -8,21 +8,25 @@
   },
   "versions": [
     {
+      "ver": "Ver.0.91",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.91/main.exe",
+      "sha256": "3c23bd177fab2d65e56f3cd30b50449a315ab63567012257a8cc823c88da8ab5",
+      "note": "TIM TSM 첫 서버 배포"
+    },
+    {
       "ver": "Ver.0.90",
       "type": "exe",
       "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.90/main.exe",
       "sha256": "2ef7c080cbabd9929539636d6fcf89f8df478f2d09b587cf5a13436d1826cf79",
       "note": "TIM TSM 첫 배포"
-    },
-    {
-      "ver": "Ver.0.91",
-      "type": "exe",
-      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.91/main.exe",
-      "sha256": "a98d1fe7b1195453409a69a7a76a813249ec0e18879c2d40417ee43e85ebdb88",
-      "note": "자동 업데이트 추가"
     }
   ],
   "notices": [
+    {
+      "date": "2026-08-12",
+      "text": "TSM의 첫 서버 배포를 진행합니다."
+    },
     {
       "date": "2026-08-11",
       "text": "1. 자동 업데이트 기능 추가"
@@ -30,10 +34,6 @@
     {
       "date": "2026-08-11",
       "text": "TIM 의 TSM 첫 버전 릴리이즈"
-    },
-    {
-      "date": "2026-08-11",
-      "text": "TSM KIS Ver.0.91이 업데이트 되었습니다."
     }
   ]
 }
