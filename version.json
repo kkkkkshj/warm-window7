@@ -1,10 +1,18 @@
 {
   "product": "TSM",
-  "recommend": "Ver.0.90",
+  "recommend": "Ver.0.91",
   "data": {
     "ver": "",
     "url": "",
     "sha256": ""
   },
-  "versions": []
+  "versions": [
+    {
+      "ver": "Ver.0.91",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.91/main.exe",
+      "sha256": "920edf3ee2b9f7db748e3c1d047dad338df6a650095f9c9eace9ff53d737ea5c",
+      "note": "라이선스 안내 개선 · 자동 업데이트 추가"
+    }
+  ]
 }
