@@ -11,8 +11,12 @@
       "ver": "Ver.0.91",
       "type": "exe",
       "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.91/main.exe",
-      "sha256": "3ac5fcb853bc85479995cfaca3e9523a066cc6c5b90b023bf320308110debb4a",
-      "note": "라이선스 안내 개선 · 자동 업데이트 추가"
+      "sha256": "a98d1fe7b1195453409a69a7a76a813249ec0e18879c2d40417ee43e85ebdb88",
+      "note": "자동 업데이트 추가"
     }
-  ]
+  ],
+  "notice": {
+    "level": "info",
+    "text": "TSM KIS Ver.0.91이 업데이트 되었습니다."
+  }
 }
