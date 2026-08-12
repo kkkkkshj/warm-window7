@@ -11,8 +11,8 @@
       "ver": "Ver.0.92",
       "type": "exe",
       "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.92/main.exe",
-      "sha256": "e27c6b438675faed94b3dc63ff649eafb25bacd47dfde0a6588d9e251961f96c",
-      "note": "주문 연속 거부 시 제목 표시줄 알림 추가"
+      "sha256": "425a643cf21edd61998985c07f82684831330f68ea4dfd1f04a41d8d05077aa0",
+      "note": "API 보안강화 목적 폴더 배치 변경"
     },
     {
       "ver": "Ver.0.91",
