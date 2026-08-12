@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.0.91",
+  "recommend": "Ver.0.92",
   "data": {
     "ver": "260719",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "358e827db827064a5c4e9a1f0a78d236877e68ef41905595a30ff3db76726ab8"
   },
   "versions": [
+    {
+      "ver": "Ver.0.92",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.92/main.exe",
+      "sha256": "e27c6b438675faed94b3dc63ff649eafb25bacd47dfde0a6588d9e251961f96c",
+      "note": "주문 연속 거부 시 제목 표시줄 알림 추가"
+    },
     {
       "ver": "Ver.0.91",
       "type": "exe",
