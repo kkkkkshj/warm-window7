@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.0.92",
+  "recommend": "Ver.260814",
   "data": {
     "ver": "260719",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "358e827db827064a5c4e9a1f0a78d236877e68ef41905595a30ff3db76726ab8"
   },
   "versions": [
+    {
+      "ver": "Ver.260814",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260814/main.exe",
+      "sha256": "4e2b149437f66c11bb315b69a5d9ed8708a5472e1017c3def9b2f12df4810d1c",
+      "note": ""
+    },
     {
       "ver": "Ver.0.92",
       "type": "exe",
@@ -24,16 +31,8 @@
   ],
   "notices": [
     {
-      "date": "2026-08-12",
-      "text": "TSM 서버 첫 배포"
-    },
-    {
-      "date": "2026-08-11",
-      "text": "1. 자동 업데이트 기능 추가"
-    },
-    {
-      "date": "2026-08-11",
-      "text": "TIM 의 TSM 첫 버전 릴리이즈"
+      "date": "2026-08-15",
+      "text": "TSM 릴리즈 Ver.260814"
     }
   ]
 }
