@@ -1,0 +1,24 @@
+{
+  "product": "TCM",
+  "recommend": "Ver.260816",
+  "data": {
+    "ver": "",
+    "url": "",
+    "sha256": ""
+  },
+  "versions": [
+    {
+      "ver": "Ver.260816",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/TCM-Ver.260816/main.exe",
+      "sha256": "e8fde8f47f6084b426d0dec660d57b9e1ce121e6615ee663618cf958c4e9799c",
+      "note": ""
+    }
+  ],
+  "notices": [
+    {
+      "date": "2026-08-16",
+      "text": "TCM 릴리즈 Ver.260816"
+    }
+  ]
+}
