@@ -1,12 +1,19 @@
 {
   "product": "TCM",
-  "recommend": "Ver.260816",
+  "recommend": "Ver.260817",
   "data": {
     "ver": "",
     "url": "",
     "sha256": ""
   },
   "versions": [
+    {
+      "ver": "Ver.260817",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/TCM-Ver.260817/main.exe",
+      "sha256": "132b16a7652e0b8fbbea774629eb5cb96ebf3e49171f60324b1133fb61dfaa19",
+      "note": ""
+    },
     {
       "ver": "Ver.260816",
       "type": "exe",
@@ -16,6 +23,10 @@
     }
   ],
   "notices": [
+    {
+      "date": "2026-08-16",
+      "text": "아이콘 변경 기능 추가"
+    },
     {
       "date": "2026-08-16",
       "text": "TCM 릴리즈 Ver.260816"
