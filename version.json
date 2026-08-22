@@ -1,6 +1,6 @@
 {
   "product": "TSM",
-  "recommend": "Ver.260814",
+  "recommend": "Ver.260821",
   "data": {
     "ver": "260719",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
@@ -8,28 +8,25 @@
   },
   "versions": [
     {
+      "ver": "Ver.260821",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260821/main.exe",
+      "sha256": "febf81570a1c3ff688d4fe6ae64f1e6cd2b98170444b6a9a34bc03fc22204981",
+      "note": ""
+    },
+    {
       "ver": "Ver.260814",
       "type": "exe",
       "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260814/main.exe",
       "sha256": "4e2b149437f66c11bb315b69a5d9ed8708a5472e1017c3def9b2f12df4810d1c",
       "note": ""
-    },
-    {
-      "ver": "Ver.0.92",
-      "type": "exe",
-      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.92/main.exe",
-      "sha256": "425a643cf21edd61998985c07f82684831330f68ea4dfd1f04a41d8d05077aa0",
-      "note": "API 보안강화 목적 폴더 배치 변경"
-    },
-    {
-      "ver": "Ver.0.91",
-      "type": "exe",
-      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.0.91/main.exe",
-      "sha256": "3c23bd177fab2d65e56f3cd30b50449a315ab63567012257a8cc823c88da8ab5",
-      "note": "TIM 서버 배포시작"
     }
   ],
   "notices": [
+    {
+      "date": "2026-08-22",
+      "text": "조건식 설정 방법 네이버 카페 참고하세요."
+    },
     {
       "date": "2026-08-15",
       "text": "TSM 릴리즈 Ver.260814"
