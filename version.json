@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.260825",
+  "recommend": "Ver.260827",
   "data": {
     "ver": "DataVer.260825",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "b29ded64b9dfa7bb50f68990c9732226c718e66b03d5d863d02b1b7ce92491f6"
   },
   "versions": [
+    {
+      "ver": "Ver.260827",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260827/main.exe",
+      "sha256": "74c5339d978bd289163006b7e95282b0908ca4c8c092c92e8418aee73daf168c",
+      "note": ""
+    },
     {
       "ver": "Ver.260825",
       "type": "exe",
@@ -30,6 +37,10 @@
     }
   ],
   "notices": [
+    {
+      "date": "2026-08-27",
+      "text": "신규 수익율 개선 전략 파일이 업데이트 되었습니다."
+    },
     {
       "date": "2026-08-22",
       "text": "조건식 설정 방법 네이버 카페 참고하세요."
