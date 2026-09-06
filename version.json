@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.260828",
+  "recommend": "Ver.260906",
   "data": {
     "ver": "DataVer.260830",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "1b5c25ca3a35e17700360ebc0ac3979a408e462e3277967e5eed4f258becfcb8"
   },
   "versions": [
+    {
+      "ver": "Ver.260906",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260906/main.exe",
+      "sha256": "85499d698ea15144b7a22fa608fdbc7351dfcdba1a46072f565eb89e61dd9280",
+      "note": ""
+    },
     {
       "ver": "Ver.260828",
       "type": "exe",
@@ -45,16 +52,16 @@
   ],
   "notices": [
     {
+      "date": "2026-09-06",
+      "text": "파도를 넘는지혜 5편 유투브 영상 올림"
+    },
+    {
       "date": "2026-08-27",
       "text": "신규 수익율 개선 전략 파일이 업데이트 되었습니다."
     },
     {
       "date": "2026-08-22",
       "text": "조건식 설정 방법 네이버 카페 참고하세요."
-    },
-    {
-      "date": "2026-08-15",
-      "text": "TSM 릴리즈 Ver.260814"
     }
   ]
 }
