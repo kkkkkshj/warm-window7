@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.260904",
+  "recommend": "Ver.260920",
   "data": {
     "ver": "DataVer.260830",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "1b5c25ca3a35e17700360ebc0ac3979a408e462e3277967e5eed4f258becfcb8"
   },
   "versions": [
+    {
+      "ver": "Ver.260920",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.260920/main.exe",
+      "sha256": "866f6ae26e0dc717db5ebcafab57433278a2eaf544aabb4e6fafab2fcb387bf8",
+      "note": ""
+    },
     {
       "ver": "Ver.260904",
       "type": "exe",
