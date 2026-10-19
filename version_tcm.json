@@ -1,12 +1,19 @@
 {
   "product": "TCM",
-  "recommend": "Ver.261019",
+  "recommend": "Ver.261020",
   "data": {
     "ver": "",
     "url": "",
     "sha256": ""
   },
   "versions": [
+    {
+      "ver": "Ver.261020",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/TCM-Ver.261020/main.exe",
+      "sha256": "b20f0c4df0d35c177850fd79b0c76c9b39f23df73b2cd12f71fecc97fe2a4047",
+      "note": ""
+    },
     {
       "ver": "Ver.261019",
       "type": "exe",
@@ -51,6 +58,10 @@
     }
   ],
   "notices": [
+    {
+      "date": "2026-10-19",
+      "text": "UI 메뉴 간소화 진행"
+    },
     {
       "date": "2026-08-16",
       "text": "아이콘 변경 기능 추가"
