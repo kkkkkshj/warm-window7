@@ -1,12 +1,19 @@
 {
   "product": "TCM",
-  "recommend": "Ver.261014",
+  "recommend": "Ver.261019",
   "data": {
     "ver": "",
     "url": "",
     "sha256": ""
   },
   "versions": [
+    {
+      "ver": "Ver.261019",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/TCM-Ver.261019/main.exe",
+      "sha256": "eaec100ec26f7c315fd092d6ba5ec3dc6cb48fd0225539696272fb33707a7317",
+      "note": ""
+    },
     {
       "ver": "Ver.261014",
       "type": "exe",
