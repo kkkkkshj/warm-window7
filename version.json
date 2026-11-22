@@ -1,12 +1,19 @@
 {
   "product": "TSM",
-  "recommend": "Ver.261115",
+  "recommend": "Ver.261122",
   "data": {
     "ver": "DataVer.261026",
     "url": "https://github.com/kkkkkshj/warm-window7/releases/download/market-data/market_data.zip",
     "sha256": "4858fab2a3292fac5187531bc85a3c27c9ae94db2e45d868ff5e1bc1bcebfa7d"
   },
   "versions": [
+    {
+      "ver": "Ver.261122",
+      "type": "exe",
+      "url": "https://github.com/kkkkkshj/warm-window7/releases/download/Ver.261122/main.exe",
+      "sha256": "67574738aa0740a4d6c9e26f3616b879c3ed5fb2e96f3af4c45f227bd64bd6bf",
+      "note": ""
+    },
     {
       "ver": "Ver.261115",
       "type": "exe",
@@ -122,16 +129,16 @@
   ],
   "notices": [
     {
+      "date": "2026-11-22",
+      "text": "단기, 적극, 안전 투자 전략 프로그램 배포"
+    },
+    {
       "date": "2026-10-19",
       "text": "안전 투자전략 설명영상 유투브 올림"
     },
     {
       "date": "2026-09-13",
       "text": "볼린저밴드 로직 설명영상 유투브 영상 올림"
-    },
-    {
-      "date": "2026-09-06",
-      "text": "파도를 넘는지혜 5편 유투브 영상 올림"
     }
   ]
 }
